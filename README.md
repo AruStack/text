@@ -1,18 +1,28 @@
 <div align="center">
-    <img width="260" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
-    <br/><br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=38&duration=2000&pause=2500&color=7C3AED&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Hey+there,+I'm+Aru!" alt="Typing SVG"/>
-</div>
+  <img width="260" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+  <br/><br/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Itim&size=38&duration=2000&pause=2500&color=7C3AED&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Hey+there,+I'm+Aru!" alt="Typing SVG"/>
 
-<div align="center">
-    <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+  <br/>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED" alt="Profile views"/>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:you@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED" alt="Profile views"/>
+
 </div>
 
 ---
@@ -37,47 +47,124 @@ I enjoy turning ideas into polished products — from frontend experiences to ba
 
 ## ⚡ Tech Stack
 
-<Col gap={4}><Row gap={3} align="start" wrap="wrap"><Col gap={2} minWidth={120} padding={3} radius="3xl" border={1} align="center"><Icon name="code" size="2xl" color="#7C3AED"/><Text weight="semibold" value="Languages" color="emphasis"/><Caption value="Python • JavaScript • TypeScript • C • Rust" color="secondary"/></Col><Col gap={2} minWidth={120} padding={3} radius="3xl" border={1} align="center"><Icon name="globe" size="2xl" color="#2563EB"/><Text weight="semibold" value="Frontend" color="emphasis"/><Caption value="HTML • CSS • Three.js • GSAP • Vue" color="secondary"/></Col><Col gap={2} minWidth={120} padding={3} radius="3xl" border={1} align="center"><Icon name="server" size="2xl" color="#059669"/><Text weight="semibold" value="Backend" color="emphasis"/><Caption value="FastAPI • Flask • Node • Express" color="secondary"/></Col><Col gap={2} minWidth={120} padding={3} radius="3xl" border={1} align="center"><Icon name="database" size="2xl" color="#EA580C"/><Text weight="semibold" value="Databases" color="emphasis"/><Caption value="MongoDB • PostgreSQL • SQLite • Firebase" color="secondary"/></Col></Row><Row gap={3} align="start" wrap="wrap"><Col gap={2} minWidth={120} padding={3} radius="3xl" border={1} align="center"><Icon name="cpu" size="2xl" color="#DC2626"/><Text weight="semibold" value="AI / ML" color="emphasis"/><Caption value="Pandas • OpenCV • scikit-learn • Tesseract" color="secondary"/></Col><Col gap={2} minWidth={120} padding={3} radius="3xl" border={1} align="center"><Icon name="shield" size="2xl" color="#0F172A"/><Text weight="semibold" value="Security" color="emphasis"/><Caption value="Reverse engineering • Malware analysis • Linux" color="secondary"/></Col><Col gap={2} minWidth={120} padding={3} radius="3xl" border={1} align="center"><Icon name="box" size="2xl" color="#0EA5E9"/><Text weight="semibold" value="DevOps" color="emphasis"/><Caption value="Docker • Nginx • Git • Render • Netlify" color="secondary"/></Col><Col gap={2} minWidth={120} padding={3} radius="3xl" border={1} align="center"><Icon name="sparkles" size="2xl" color="#DB2777"/><Text weight="semibold" value="Design" color="emphasis"/><Caption value="Figma • Photoshop • Illustrator • Blender" color="secondary"/></Col></Row></Col>
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🧠 AI / ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🛡️ Security & DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
 ## 🧠 Current Focus
 
-<Code value="const Aru = {
+```js
+const Aru = {
   building: [
-    &quot;WarrantyBaba&quot;,
-    &quot;Cosmic Atlas&quot;,
-    &quot;Portfolio v3&quot;,
-    &quot;Scribblr AI&quot;
+    "WarrantyBaba",
+    "Cosmic Atlas",
+    "Portfolio v3",
+    "Scribblr AI"
   ],
 
   learning: [
-    &quot;Rust&quot;,
-    &quot;Machine Learning&quot;,
-    &quot;Computer Graphics&quot;,
-    &quot;Cybersecurity&quot;
+    "Rust",
+    "Machine Learning",
+    "Computer Graphics",
+    "Cybersecurity"
   ],
 
-  goal: &quot;Build products that feel magical to use.&quot;
-};"/>
+  goal: "Build products that feel magical to use."
+};
+```
 
 ---
 
 ## 🏗️ Featured Projects
 
-<Grid columns={{"default":1,"md":2}}><Grid.Item border={1} radius="3xl" clip padding={4} gap={3}><Row align="center" gap={2}><Badge label="Production Idea" color="discovery"/><Text weight="semibold" value="WarrantyBaba"/></Row><Text value="Smart warranty management app with receipt scanning, expiry alerts, and service center discovery." color="secondary"/><Row gap={2} wrap="wrap"><Badge label="FastAPI" color="info"/><Badge label="MongoDB" color="success"/><Badge label="OCR" color="warning"/></Row></Grid.Item><Grid.Item border={1} radius="3xl" clip padding={4} gap={3}><Row align="center" gap={2}><Badge label="Astro Project" color="discovery"/><Text weight="semibold" value="Cosmic Atlas"/></Row><Text value="Light pollution and astronomy companion that helps users find the best stargazing spot tonight." color="secondary"/><Row gap={2} wrap="wrap"><Badge label="Maps" color="info"/><Badge label="Weather" color="success"/><Badge label="Bortle" color="warning"/></Row></Grid.Item><Grid.Item border={1} radius="3xl" clip padding={4} gap={3}><Row align="center" gap={2}><Badge label="Design" color="discovery"/><Text weight="semibold" value="REVIBE"/></Row><Text value="Minimal thrift-fashion brand website focused on smooth motion, storytelling, and visual identity." color="secondary"/><Row gap={2} wrap="wrap"><Badge label="GSAP" color="info"/><Badge label="Three.js" color="success"/><Badge label="UI/UX" color="warning"/></Row></Grid.Item><Grid.Item border={1} radius="3xl" clip padding={4} gap={3}><Row align="center" gap={2}><Badge label="Creative" color="discovery"/><Text weight="semibold" value="Scribblr AI"/></Row><Text value="AI-assisted writing and creative workflow experiments for notes, ideas, and content generation." color="secondary"/><Row gap={2} wrap="wrap"><Badge label="Python" color="info"/><Badge label="LLMs" color="success"/><Badge label="Automation" color="warning"/></Row></Grid.Item></Grid>
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 WarrantyBaba
+Smart warranty management app with receipt scanning, expiry alerts, and service center discovery.
+
+**Tech:** FastAPI • MongoDB • OCR
+
+</td>
+<td width="50%">
+
+### 🌌 Cosmic Atlas
+Light pollution and astronomy companion that helps users find the best stargazing spot tonight.
+
+**Tech:** Maps • Weather • Bortle
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎨 REVIBE
+Minimal thrift-fashion brand website focused on smooth motion, storytelling, and visual identity.
+
+**Tech:** GSAP • Three.js • UI/UX
+
+</td>
+<td width="50%">
+
+### 🤖 Scribblr AI
+AI-assisted writing and creative workflow experiments for notes, ideas, and content generation.
+
+**Tech:** Python • LLMs • Automation
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
@@ -86,8 +173,8 @@ I enjoy turning ideas into polished products — from frontend experiences to ba
 
 <div align="center">
 
-> **Code is not just logic.  
-> It is architecture, emotion, interaction, and experience.**
+> **Code is not just logic.**  
+> **It is architecture, emotion, interaction, and experience.**
 
 </div>
 
@@ -96,12 +183,23 @@ I enjoy turning ideas into polished products — from frontend experiences to ba
 ## 📫 Let’s Connect
 
 <div align="center">
-    <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:you@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
+---
+
 <div align="center">
-    <br/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
 </div>
