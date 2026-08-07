@@ -1,10 +1,10 @@
 <div align="center">
   <img width="260" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
   <br/><br/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Itim&size=38&duration=2000&pause=2500&color=7C3AED&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Hey+there,+I'm+Aru!" alt="Typing SVG"/>
 
-  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Itim&size=38&duration=2000&pause=2500&color=7C3AED&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Hey+there,+I%27m+Aru!" alt="Typing SVG"/>
+
+  <br/><br/>
 
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -15,14 +15,18 @@
   <a href="https://instagram.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:you@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://youtube.com/@YOUR_CHANNEL">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED" alt="Profile views"/>
-
+  <img src="https://img.shields.io/badge/Currently%20Building-Cosmic%20Atlas-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Exploring-Cybersecurity-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Rust-DEA584?style=for-the-badge"/>
 </div>
 
 ---
@@ -192,8 +196,16 @@ AI-assisted writing and creative workflow experiments for notes, ideas, and cont
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:you@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://instagram.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@YOUR_CHANNEL">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
