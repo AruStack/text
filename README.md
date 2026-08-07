@@ -27,11 +27,63 @@
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Currently%20Building-Cosmic%20Atlas-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Exploring-Cybersecurity-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-Rust-DEA584?style=for-the-badge"/>
-</div>
+  <div align="center">
 
+<img width="260" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Itim&size=38&duration=2000&pause=2500&color=7C3AED&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Hey+there,+I%27m+Aru!"/>
+
+<br/>
+
+<!-- Premium status card -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:7C3AED&height=120&section=header&text=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20UI%20Engineer&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42"/>
+
+<br/>
+
+<!-- Social row -->
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://youtube.com/@YOUR_CHANNEL">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- Futuristic mini dashboard -->
+<table>
+<tr>
+<td align="center" width="140">
+  <img src="https://img.shields.io/badge/Focus-Cosmic%20Atlas-7C3AED?style=flat-square"/><br/>
+  <sub>Flagship project</sub>
+</td>
+<td align="center" width="140">
+  <img src="https://img.shields.io/badge/Mode-Building-111827?style=flat-square"/><br/>
+  <sub>Shipping ideas</sub>
+</td>
+<td align="center" width="140">
+  <img src="https://img.shields.io/badge/Stack-Three.js-000000?style=flat-square"/><br/>
+  <sub>Interactive web</sub>
+</td>
+<td align="center" width="140">
+  <img src="https://img.shields.io/badge/Exploring-Cybersecurity-0F172A?style=flat-square"/><br/>
+  <sub>Reverse engineering</sub>
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 ## 👾 A little about me...
