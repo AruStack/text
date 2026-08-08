@@ -41,6 +41,11 @@
   <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
 </a>
 
+<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+
 </div>
 
 ## 👻 A little about me... 
