@@ -159,16 +159,6 @@ const DIMFLIX = {
 > My projects are also stored in organizations. \
 > In fact, the best projects are often stored there.
 
-## ☕ Support Me
-If you would like to support me or any of my projects, you can send a donation to the following cryptocurrency wallets:
-
-| CryptoCurrencies | Address                                        |
-| ------------ | -------------------------------------------------- |
-| **TON / USDT(TON)**      | `UQB9qNTcAazAbFoeobeDPMML9MG73DUCAFTpVanQnLk3BHg3` |
-| **USDT (TRC20)**     | `TBTZ5RRMfGQQ8Vpf8i5N8DZhNxSum2rzAs`               |
-| **Ethereum** | `0x56e8bf8Ec07b6F2d6aEdA7Bd8814DB5A72164b13`       |
-| **Bitcoin**  | `bc1qt5urnw7esunf0v7e9az0jhatxrdd0smem98gdn`       |
-
 <details open>
 <summary><a name="patents"><a/><h2>🥇 Patents</h2></summary>
     <div align="center">
