@@ -6,13 +6,39 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/AruStack/text"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=Github" alt="Github"/></a>
-	<a href="https://github.com/AruStack/text"><img src="https://img.shields.io/badge/-HackerRank-446131?style=for-the-badge&logo=HackerRank" alt="HackerRank"/></a>
-	<a href="https://www.youtube.com/DIMFLIX"><img src="https://img.shields.io/badge/-YouTube-f2cdcd?style=for-the-badge&logo=YouTube&logoColor=FF0000" alt="YouTube"/></a>
-    <a href="https://orcid.org/0009-0002-5036-3822"><img src="https://img.shields.io/badge/-ORCID-f5c2e7?style=for-the-badge&logo=orcid&logoColor=4F7DB3" alt="ORCID"/></a>
-    <a href="https://www.kaggle.com/dimflix/"><img src="https://img.shields.io/badge/-Kaggle-cba6f7?style=for-the-badge&logo=kaggle&logoColor=5F66E6" alt="Kaggle"/></a>
-    <br>
-    <a href="https://mynickname.com/id1843842"><img src="https://mynickname.com/img.php?nick=dimflix&sert=24&text=t8" alt="Nickname dimflix registred!" /></a>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+<a href="https://www.youtube.com/@DIMFLIX">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+<a href="https://yourwebsite.com">
+  <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://buymeacoffee.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" alt="Buy Me a Coffee"/>
+</a>
+
+<a href="https://patreon.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
+</a>
+
 </div>
 
 <div align="center" justify-content="space-between">
