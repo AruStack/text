@@ -7,7 +7,7 @@
 
 <div align="center">
     <a href="https://github.com/AruStack/text"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=Github" alt="Github"/></a>
-	<a href="https://github.com/AruStack/text"><img src="https://img.shields.io/badge/-HackerRank-FFBF00?style=for-the-badge&logo=HackerRank" alt="HackerRank"/></a>
+	<a href="https://github.com/AruStack/text"><img src="https://img.shields.io/badge/-HackerRank-B4C424?style=for-the-badge&logo=HackerRank" alt="HackerRank"/></a>
 	<a href="https://www.youtube.com/DIMFLIX"><img src="https://img.shields.io/badge/-YouTube-f2cdcd?style=for-the-badge&logo=YouTube&logoColor=FF0000" alt="YouTube"/></a>
     <a href="https://orcid.org/0009-0002-5036-3822"><img src="https://img.shields.io/badge/-ORCID-f5c2e7?style=for-the-badge&logo=orcid&logoColor=4F7DB3" alt="ORCID"/></a>
     <a href="https://www.kaggle.com/dimflix/"><img src="https://img.shields.io/badge/-Kaggle-cba6f7?style=for-the-badge&logo=kaggle&logoColor=5F66E6" alt="Kaggle"/></a>
