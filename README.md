@@ -87,13 +87,14 @@ const DIMFLIX = {
 
 ## 🛠️ Tech Stack
 
-| Languages | Frontend | Backend |
-|---|---|---|
-| <img src='https://skillicons.dev/icons?i=js,python,java,cpp,c' /> | <img src='https://skillicons.dev/icons?i=html,css,tailwind,threejs,blender' /> | <img src='https://skillicons.dev/icons?i=nodejs,express,flask,fastapi' /> |
-
-| Database | Tools | Security |
-|---|---|---|
-| <img src='https://skillicons.dev/icons?i=mongodb,firebase,mysql' /> | <img src='https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman' /> | <img src='https://skillicons.dev/icons?i=linux,bash' /> |
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | <img src='https://skillicons.dev/icons?i=js,python,java,cpp,c' /> |
+| **Frontend** | <img src='https://skillicons.dev/icons?i=html,css,tailwind,threejs,blender' /> |
+| **Backend** | <img src='https://skillicons.dev/icons?i=nodejs,express,flask,fastapi' /> |
+| **Database** | <img src='https://skillicons.dev/icons?i=mongodb,firebase,mysql' /> |
+| **Tools** | <img src='https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman' /> |
+| **Security** | <img src='https://skillicons.dev/icons?i=linux,bash' /> |
 
 ## 🏢 My Organizations (Clickable)
 
