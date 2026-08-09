@@ -85,13 +85,15 @@ const DIMFLIX = {
 };
 ```
 
+## 🛠️ Tech Stack
+
 | Category | Stack |
 |----------|-------|
 | **Languages** | <img src='https://skillicons.dev/icons?i=js,python,java,rust' /> |
 | **Frontend** | <img src='https://skillicons.dev/icons?i=html,css,tailwind,threejs,blender' /> |
 | **Backend** | <img src='https://skillicons.dev/icons?i=nodejs,express,flask,fastapi' /> |
 | **Database** | <img src='https://skillicons.dev/icons?i=mongodb,firebase,mysql' /> |
-| **Tools** | <img src='https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma' /> <img src='https://cdn.simpleicons.org/canva/00C4CC' width='48' height='48' alt='Canva' /> |
+| **Tools** | <img src='https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma' /> <img src='https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg' width='48' height='48' alt='Canva' /> |
 | **Security** | <img src='https://skillicons.dev/icons?i=linux,bash' /> |
 
 ## 🏢 My Organizations (Clickable)
