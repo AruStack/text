@@ -2,41 +2,40 @@
 
 <img width="220" src="don-wave.gif" alt="ByAruDev says hi"/>
 
-<br/>
-<br/>
+<br/><br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=34&duration=3000&pause=2500&center=true&vCenter=true&repeat=false&width=420&height=70&lines=Hi%2C+I%27m+ByAruDev+%F0%9F%91%8B" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=34&duration=3000&pause=2500&center=true&vCenter=true&repeat=false&width=420&height=70&lines=Hi%2C+I%27m+ByAruDev+%F0%9F%91%8B" alt="Typing SVG" />
 
 </div>
+
+---
 
 <div align="center">
 
 <a href="https://github.com/ByAruDev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <a href="https://yourwebsite.com">
-  <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br>
 
 <a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -45,26 +44,28 @@
 
 ## 🚀 A little about me...
 
-[![ByAruDev](https://github-widgetbox.vercel.app/api/profile?username=ByAruDev&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+I am a **Grade 12 student and aspiring Full-Stack & Software Developer** passionate about building meaningful digital experiences.
 
-I am a **Grade 12 student and aspiring Full-Stack & Software Developer** with a strong passion for creativity, innovation, and building meaningful digital experiences. My focus is on continuously learning, improving, and creating projects that combine functionality with thoughtful design. I enjoy turning ideas into real products and challenging myself with new technologies and ambitious projects.
+I focus on:
 
-Currently, I am working on **personal and open-source projects**, exploring modern web development, backend systems, UI/UX, and creative coding. I specialize in building **websites, applications, and interactive digital tools** using technologies such as JavaScript, Python, Node.js, Express, Flask, FastAPI, MongoDB, GSAP, and Three.js.
+* 💡 Turning ideas into real products
+* 🎨 Blending functionality with design
+* 🚀 Building full-stack & creative web projects
 
-Alongside school, I am constantly experimenting, learning through hands-on development, and expanding my skills in both frontend and backend engineering. I believe in **continuous self-development** and never standing still — every project, every bug, and every challenge is another step forward in my journey as a developer and as a person.
+Tech I work with:
+**JavaScript, Python, Node.js, Express, Flask, FastAPI, MongoDB, GSAP, Three.js**
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Stack |
-|----------|-------|
-| **Languages** | <img src='https://skillicons.dev/icons?i=js,python,java,rust' /> |
-| **Frontend** | <img src='https://skillicons.dev/icons?i=html,css,tailwind,threejs,blender' /> |
-| **Backend** | <img src='https://skillicons.dev/icons?i=nodejs,express,flask,fastapi' /> |
-| **Database** | <img src='https://skillicons.dev/icons?i=mongodb,firebase,mysql' /> |
-| **Tools** | <img src='https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma' /> |
-| **Security** | <img src='https://skillicons.dev/icons?i=linux,bash' /> |
+| Category      | Stack                                                                                     |
+| ------------- | ----------------------------------------------------------------------------------------- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,python,java,rust" />                          |
+| **Frontend**  | <img src="https://skillicons.dev/icons?i=html,css,tailwind,threejs,blender" />            |
+| **Backend**   | <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />                 |
+| **Database**  | <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />                       |
+| **Tools**     | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma" /> |
 
 ---
 
@@ -75,102 +76,79 @@ Alongside school, I am constantly experimenting, learning through hands-on devel
 
   <br>
 
-  <!-- 🌟 Projects -->
-
   <details>
     <summary><b>🌟 Projects & Work</b></summary>
 
-  <br>
+* 🚀 Built multiple full-stack & frontend projects
 
-* 🚀 Built and deployed multiple full-stack & frontend projects
+* 🎨 Created interactive UI/UX experiences
 
-* 🌐 Created interactive and visually engaging web experiences
+* 🛠️ Developed apps using JS, Python, Flask, Node
 
-* 🛠️ Developed tools using JavaScript, Python, Node.js, and Flask
+* 💡 Turned ideas into working products
 
-* 🎨 Focused on UI/UX with modern design principles
-
-* 🔥 Continuously experimenting with creative coding & new tech
-
-  <br>
   </details>
-
-  <!-- 📜 Certificates -->
 
   <details>
     <summary><b>📜 Certificates</b></summary>
 
-  <br>
+* 🏅 Add your certificate here
 
-* 🏅 **Add Certificate Name** — Issuing Organization *(Year)*
+* 🏅 Add your certificate here
 
-* 🏅 **Add Certificate Name** — Issuing Organization *(Year)*
-
-* 🏅 **Add Certificate Name** — Issuing Organization *(Year)*
-
-  <br>
   </details>
-
-  <!-- 🧠 Learning & Growth -->
 
   <details>
-    <summary><b>🧠 Learning & Growth</b></summary>
+    <summary><b>🧠 Learning</b></summary>
 
-  <br>
+* 📚 Learning full-stack development
 
-* 📚 Actively learning full-stack development
+* ⚡ Exploring APIs & backend systems
 
-* ⚡ Exploring backend systems & APIs
+* 🧪 Building projects to learn
 
-* 🎯 Practicing problem-solving and DSA
-
-* 🧪 Building projects to learn by doing
-
-* 🔄 Consistently improving through iteration
-
-  <br>
   </details>
-
-  <!-- 🏅 Milestones -->
 
   <details>
     <summary><b>🏅 Milestones</b></summary>
 
-  <br>
+* ⭐ Consistent GitHub activity
 
-* ⭐ Maintained consistent GitHub activity
+* 🚀 Continuous growth as a developer
 
-* 📈 Improved coding skills through real-world projects
+* 💻 Strong hands-on experience
 
-* 💡 Turned multiple ideas into working products
-
-* 🚀 Growing as a developer with each project
-
-  <br>
   </details>
 
 </details>
+
+---
 
 ## 📊 Statistics
 
 <div align="center">
 
-<img alt="ByAruDev profile Trophies" src="https://github-profile-trophy.vercel.app/?username=ByAruDev&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ByAruDev&theme=darkhub&no-frame=true&margin-w=10&row=1"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ByAruDev&theme=transparent&hide_border=true&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ByAruDev&theme=transparent&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByAruDev&layout=donut&theme=transparent&hide_border=true" alt="Top Languages Donut"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByAruDev&layout=donut&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400"/>
 
 <br/><br/>
 
-<img alt="ByAruDev Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ByAruDev&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ByAruDev&show_icons=true&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ByAruDev&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400&v=1"/>
 
 </div>
+
+---
+
+<div align="center">
+
+### ⚡ Caffeine addict tryna debug life.
+
+</div>
+
