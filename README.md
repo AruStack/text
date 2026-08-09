@@ -1,11 +1,15 @@
 <div align="center">
-    <img width=300 src="./assets/main.gif"/>    
-    <br/>
-    <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=50&duration=3000&pause=6000&center=true&vCenter=true&width=500&height=100&lines=Hi.+Im+ByAruDev+%E2%9C%8C%EF%B8%8F+" alt="Typing SVG" /></a>
-	
-</div>
 
+<img width="140" src="./assets/don-wave.gif" alt="Quixote says hi"/>
+
+<br/>
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=34&duration=3000&pause=2500&center=true&vCenter=true&width=420&height=70&lines=Hi%2C+I'm+ByAruDev+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
+
+</div>
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
