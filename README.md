@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="140" src="./assets/don-wave.gif" alt="Quixote says hi"/>
+<img width="140" src="don-wave.gif" alt="Quixote says hi"/>
 
 <br/>
 <br/>
