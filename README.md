@@ -81,11 +81,6 @@ Tech I work with:
 
 ## 🏆 Achievements
 
-<details>
-  <summary><b>🚀 View Achievements</b></summary>
-
-  <br>
-
   <details>
     <summary><b>🌟 Projects & Work</b></summary>
 
@@ -129,8 +124,6 @@ Tech I work with:
 * 💻 Strong hands-on experience
 
   </details>
-
-</details>
 
 ---
 
