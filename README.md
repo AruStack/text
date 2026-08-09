@@ -68,56 +68,88 @@ Alongside school, I am constantly experimenting, learning through hands-on devel
 
 ---
 
-## 📜 Certificates & 🚀 Achievements
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
+## 🏆 Achievements
 
 <details>
-  <summary><b>📜 View my certificates</b></summary>
+  <summary><b>🚀 View Achievements</b></summary>
 
   <br>
 
-- 🎓 Add your certificate here
-- 📘 Add another certificate
-- 🧠 Add course / workshop / bootcamp
-- 📂 Add certification link
+  <!-- 🌟 Projects -->
+
+  <details>
+    <summary><b>🌟 Projects & Work</b></summary>
 
   <br>
 
-  <b>Example format</b>
+* 🚀 Built and deployed multiple full-stack & frontend projects
 
-- 🏅 <b>Certificate Name</b> — Issuing Organization <i>(Year)</i>
-- 🏅 <b>Certificate Name</b> — Issuing Organization <i>(Year)</i>
+* 🌐 Created interactive and visually engaging web experiences
+
+* 🛠️ Developed tools using JavaScript, Python, Node.js, and Flask
+
+* 🎨 Focused on UI/UX with modern design principles
+
+* 🔥 Continuously experimenting with creative coding & new tech
+
+  <br>
+  </details>
+
+  <!-- 📜 Certificates -->
+
+  <details>
+    <summary><b>📜 Certificates</b></summary>
+
+  <br>
+
+* 🏅 **Add Certificate Name** — Issuing Organization *(Year)*
+
+* 🏅 **Add Certificate Name** — Issuing Organization *(Year)*
+
+* 🏅 **Add Certificate Name** — Issuing Organization *(Year)*
+
+  <br>
+  </details>
+
+  <!-- 🧠 Learning & Growth -->
+
+  <details>
+    <summary><b>🧠 Learning & Growth</b></summary>
+
+  <br>
+
+* 📚 Actively learning full-stack development
+
+* ⚡ Exploring backend systems & APIs
+
+* 🎯 Practicing problem-solving and DSA
+
+* 🧪 Building projects to learn by doing
+
+* 🔄 Consistently improving through iteration
+
+  <br>
+  </details>
+
+  <!-- 🏅 Milestones -->
+
+  <details>
+    <summary><b>🏅 Milestones</b></summary>
+
+  <br>
+
+* ⭐ Maintained consistent GitHub activity
+
+* 📈 Improved coding skills through real-world projects
+
+* 💡 Turned multiple ideas into working products
+
+* 🚀 Growing as a developer with each project
+
+  <br>
+  </details>
 
 </details>
-
-    </td>
-    <td width="50%" valign="top">
-
-<details>
-  <summary><b>🚀 View my achievements</b></summary>
-
-  <br>
-
-- ⭐ Built and deployed multiple personal projects
-- 🌐 Contributing to open-source projects
-- 💻 Maintaining a consistent GitHub contribution streak
-- 🎨 Designed and developed interactive web experiences
-- 🛠️ Exploring full-stack development and creative coding
-
-  <br>
-
-  <b>You can replace these with your real achievements later.</b>
-
-</details>
-
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📊 Statistics
 
@@ -140,13 +172,5 @@ Alongside school, I am constantly experimenting, learning through hands-on devel
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ByAruDev&show_icons=true&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Caffeine addict tryna debug life.
 
 </div>
