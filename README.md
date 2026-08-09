@@ -87,35 +87,31 @@ Alongside school, I am constantly experimenting, learning through hands-on devel
 </table>
 </div>
 
-<details open>
-<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=DIMFLIX&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
-    <img alt="DIMFLIX profile Trophy's" src="https://github-profile-trophy.vercel.app/?username=DIMFLIX&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
-    <details open>
-<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=ByAruDev&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
+## 📊 Statistics
+
+<div align="center">
 
 <img alt="ByAruDev profile Trophies" src="https://github-profile-trophy.vercel.app/?username=ByAruDev&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
 
+<br/><br/>
+
 <!-- Streak Card -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ByAruDev&theme=transparent&hide_border=true&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" alt="GitHub Streak"/>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ByAruDev&theme=transparent&hide_border=true&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" alt="GitHub Streak"/>
 
-<br/>
+<br/><br/>
 
-<!-- Top Languages Donut -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByAruDev&layout=donut&theme=transparent&hide_border=true" alt="Top Languages Donut"/>
-</div>
+<!-- Donut Languages Chart -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByAruDev&layout=donut&theme=transparent&hide_border=true" alt="Top Languages Donut"/>
 
-<br/>
+<br/><br/>
 
 <!-- Activity Graph -->
 <img alt="ByAruDev Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ByAruDev&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 
 <br/><br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ByAruDev&show_icons=true&theme=transparent&hide_border=true"/>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=ByAruDev&show_icons=true&theme=transparent&hide_border=true"/>
+
 </div>
 
-</details>
