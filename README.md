@@ -87,6 +87,46 @@ Alongside school, I am constantly experimenting, learning through hands-on devel
 </table>
 </div>
 
+## 🏆 Certificates & Achievements
+
+<details>
+<summary><b>📜 View my certificates</b></summary>
+
+<br/>
+
+- 🎓 Add your certificate here
+- 📘 Add another certificate
+- 🧠 Add course / workshop / bootcamp
+- 📂 Add certification link
+
+<br/>
+
+**Example format**
+
+- 🏅 **Certificate Name** — Issuing Organization *(Year)*
+- 🏅 **Certificate Name** — Issuing Organization *(Year)*
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🚀 View my achievements</b></summary>
+
+<br/>
+
+- ⭐ Built and deployed multiple personal projects
+- 🌐 Contributing to open-source projects
+- 💻 Maintaining a consistent GitHub contribution streak
+- 🎨 Designed and developed interactive web experiences
+- 🛠️ Exploring full-stack development and creative coding
+
+<br/>
+
+**You can replace these with your real achievements later.**
+
+</details>
+
 ## 📊 Statistics
 
 <div align="center">
