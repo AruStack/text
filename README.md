@@ -92,8 +92,12 @@ Alongside school, I am constantly experimenting, learning through hands-on devel
 <table> 
   <tr> 
     <td width="50%" valign="top"> 
-<h3>📜 View my certificates</h3> 
-      
+
+<details> 
+<summary><b>📜 View my certificates</b></summary>
+
+<br/>
+
 - 🎓 Add your certificate here
 - 📘 Add another certificate 
 - 🧠 Add course / workshop / bootcamp 
@@ -106,10 +110,15 @@ Alongside school, I am constantly experimenting, learning through hands-on devel
 - 🏅 <b>Certificate Name</b> — Issuing Organization <i>(Year)</i> 
 - 🏅 <b>Certificate Name</b> — Issuing Organization <i>(Year)</i>
 
+</details>
+
     </td> 
     <td width="50%" valign="top"> 
   
-<h3>🚀 View my achievements</h3> 
+<details>
+<summary><b>🚀 View my achievements</b></summary>
+
+<br/>
 
 - ⭐ Built and deployed multiple personal projects
 - 🌐 Contributing to open-source projects
@@ -120,9 +129,13 @@ Alongside school, I am constantly experimenting, learning through hands-on devel
 <br/> 
 
 <b>You can replace these with your real achievements later.</b> 
+
+</details>
+
     </td> 
   </tr> 
 </table>
+
 ## 📊 Statistics
 
 <div align="center">
