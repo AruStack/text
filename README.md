@@ -90,10 +90,32 @@ Alongside school, I am constantly experimenting, learning through hands-on devel
 <details open>
 <summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=DIMFLIX&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
     <img alt="DIMFLIX profile Trophy's" src="https://github-profile-trophy.vercel.app/?username=DIMFLIX&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
-    <img alt="DIMFLIX Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DIMFLIX&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-	<div align="center">
-	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIMFLIX&layout=compact&theme=transparent"/>
-	    <img src="https://github-readme-stats.vercel.app/api?username=DIMFLIX&show_iacons=true&theme=transparent"/>
-	    <img alt="DIMFLIX's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=DIMFLIX&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
-	</div>
+    <details open>
+<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=ByAruDev&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
+
+<img alt="ByAruDev profile Trophies" src="https://github-profile-trophy.vercel.app/?username=ByAruDev&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
+
+<!-- Streak Card -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ByAruDev&theme=transparent&hide_border=true&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<!-- Top Languages Donut -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByAruDev&layout=donut&theme=transparent&hide_border=true" alt="Top Languages Donut"/>
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<img alt="ByAruDev Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ByAruDev&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ByAruDev&show_icons=true&theme=transparent&hide_border=true"/>
+</div>
+
 </details>
