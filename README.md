@@ -55,39 +55,11 @@
 ## 👻 A little about me... 
 [![ByAruDev](https://github-widgetbox.vercel.app/api/profile?username=ByAruDev\&data=followers,repositories,stars,commits\&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
-I am a **Full-Stack & Software Engineer** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
+I am a **Grade 12 student and aspiring Full-Stack & Software Developer** with a strong passion for creativity, innovation, and building meaningful digital experiences. My focus is on continuously learning, improving, and creating projects that combine functionality with thoughtful design. I enjoy turning ideas into real products and challenging myself with new technologies and ambitious projects.
 
-[**Multiple times became the winner of international competitions**](#diplomas). 
-I am included in the **state register of persons with outstanding abilities**.
+Currently, I am working on **personal and open-source projects**, exploring modern web development, backend systems, UI/UX, and creative coding. I specialize in building **websites, applications, and interactive digital tools** using technologies such as JavaScript, Python, Node.js, Express, Flask, FastAPI, MongoDB, GSAP, and Three.js.
 
-Currently I am engaged in the development of open-source projects and periodically fulfill orders on freelancing. I specialize in creating websites, applications, bots and neural networks.
-
-At the moment I am studying Rust for developing high-performance applications, as well as machine learning and neural networks.
-
-```javascript
-const DIMFLIX = {
-    OS: ["Arch Linux"],
-    languages: {
-        highLevel: ["Python", "SQL"],
-        averageLevel: ["JavaScript"],
-        baseLevel: ["Rust", "C", "Java", "Typescript", "Bash"]
-    },
-    programming: {
-        backend: ["Django", "FastApi", "Flask", "RabbitMQ", "PyDantic"],
-        frontend: ["HTML", "CSS/SCSS", "VueJS"],
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
-        machine-learning: ["vaex", "pandas", "opencv", "scikit-learn"],
-        webScraping: ["aiohttp", "requests", "BeautifulSoup4", "Selenium"],
-        bots: ["aiogram", "pyrogram", "vkbottle"],
-        devOps: ["Docker", "Nginx", "Ngrok"],
-        GUI: {
-            Desktop: ["PyQT6", "Pyside6", "Tauri", "JavaFX"],
-            Mobile: ["Ionic + Capacitor", "AndroidJS", "Tauri"]
-        }
-    },
-    UI_UX: ["Photoshop", "Illustrator", "XD", "Figma"],
-};
-```
+Alongside school, I am constantly experimenting, learning through hands-on development, and expanding my skills in both frontend and backend engineering. I believe in **continuous self-development** and never standing still — every project, every bug, and every challenge is another step forward in my journey as a developer and as a person.
 
 ## 🛠️ Tech Stack
 
