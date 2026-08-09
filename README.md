@@ -87,58 +87,13 @@ const DIMFLIX = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+| Languages | Frontend | Backend |
+|---|---|---|
+| <img src='https://skillicons.dev/icons?i=js,python,java,cpp,c' /> | <img src='https://skillicons.dev/icons?i=html,css,tailwind,threejs,blender' /> | <img src='https://skillicons.dev/icons?i=nodejs,express,flask,fastapi' /> |
 
-### Languages
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> 
-<br><br>
-
-### Frontend
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge"/> <img src="https://img.shields.io/badge/Responsive%20Design-0A66C2?style=for-the-badge"/> <br> <img src="https://img.shields.io/badge/Modern%20UI%2FUX-FF6F61?style=for-the-badge"/>
-<br><br>
-
-### Backend
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge"/> <br> <img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/HTTP--only%20Cookies-4CAF50?style=for-the-badge"/>
-<br><br>
-
-### Database
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<br><br>
-
-### Tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tesseract%20OCR-5A5A5A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<br><br>
-
-### Security
-
-<img src="https://img.shields.io/badge/Reverse%20Engineering-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Malware%20Analysis-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTTP--only%20Cookies-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Secure%20API%20Design-4CAF50?style=for-the-badge"/>
-<br>
-<img src="https://img.shields.io/badge/Basic%20Networking-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Security-FF6F00?style=for-the-badge"/>
-
-</div>
+| Database | Tools | Security |
+|---|---|---|
+| <img src='https://skillicons.dev/icons?i=mongodb,firebase,mysql' /> | <img src='https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman' /> | <img src='https://skillicons.dev/icons?i=linux,bash' /> |
 
 ## 🏢 My Organizations (Clickable)
 
