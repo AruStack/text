@@ -52,7 +52,7 @@
 
 </div>
 
-## 👻 A little about me... 
+## 👨‍💻 A little about me... 
 [![ByAruDev](https://github-widgetbox.vercel.app/api/profile?username=ByAruDev\&data=followers,repositories,stars,commits\&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
 I am a **Grade 12 student and aspiring Full-Stack & Software Developer** with a strong passion for creativity, innovation, and building meaningful digital experiences. My focus is on continuously learning, improving, and creating projects that combine functionality with thoughtful design. I enjoy turning ideas into real products and challenging myself with new technologies and ambitious projects.
@@ -69,7 +69,7 @@ Alongside school, I am constantly experimenting, learning through hands-on devel
 | **Frontend** | <img src='https://skillicons.dev/icons?i=html,css,tailwind,threejs,blender' /> |
 | **Backend** | <img src='https://skillicons.dev/icons?i=nodejs,express,flask,fastapi' /> |
 | **Database** | <img src='https://skillicons.dev/icons?i=mongodb,firebase,mysql' /> |
-| **Tools** | <img src='https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma' /> <img src='https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg' width='48' height='48' alt='Canva' /> |
+| **Tools** | <img src='https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma' /> <img src='https://cdn.simpleicons.org/canva/00C4CC' width='48' height='48' alt='Canva' /> |
 | **Security** | <img src='https://skillicons.dev/icons?i=linux,bash' /> |
 
 ## 🏢 My Organizations (Clickable)
