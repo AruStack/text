@@ -147,11 +147,3 @@ Tech I work with:
 
 </div>
 
----
-
-<div align="center">
-
-### ⚡ Caffeine addict tryna debug life.
-
-</div>
-
