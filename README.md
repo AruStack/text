@@ -89,11 +89,11 @@ const DIMFLIX = {
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | <img src='https://skillicons.dev/icons?i=js,python,java,cpp,c' /> |
+| **Languages** | <img src='https://skillicons.dev/icons?i=js,python,java,rust' /> |
 | **Frontend** | <img src='https://skillicons.dev/icons?i=html,css,tailwind,threejs,blender' /> |
 | **Backend** | <img src='https://skillicons.dev/icons?i=nodejs,express,flask,fastapi' /> |
 | **Database** | <img src='https://skillicons.dev/icons?i=mongodb,firebase,mysql' /> |
-| **Tools** | <img src='https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman' /> |
+| **Tools** | <img src='https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma' /> <img src='https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white' /> |
 | **Security** | <img src='https://skillicons.dev/icons?i=linux,bash' /> |
 
 ## 🏢 My Organizations (Clickable)
