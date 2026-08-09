@@ -76,6 +76,7 @@ Tech I work with:
 | **Backend**   | <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />                 |
 | **Database**  | <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />                       |
 | **Tools**     | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma" /> |
+| **Security** | <img src='https://skillicons.dev/icons?i=linux,bash' /> |
 
 ---
 
