@@ -148,6 +148,7 @@ Tech I work with:
 <img src="./profile/stats.svg" alt="GitHub Stats"/>
 
 </div>
+
 ---
 
 ## 🎲 Random Stuff I Did
