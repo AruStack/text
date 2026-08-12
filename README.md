@@ -49,6 +49,21 @@
 </a>
 </div>
 
+</a>
+</div>
+
+<div align="center">
+
+⚠️ **Caution: This Profile Is Still Under Construction™** ⚠️
+
+Some links, sections, projects, and other shiny buttons around here may not work yet — or may be completely empty.  
+Not because they're broken... **I'm just lazy and haven't finished everything yet.** 💀
+
+I'm slowly filling things in, fixing links, and pretending I have my life together.  
+**Thanks for your patience! 🚧😂**
+
+</div>
+
 ---
 
 ## 🚀 A little about me...
