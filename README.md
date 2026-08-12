@@ -52,10 +52,9 @@
 </a>
 </div>
 
-[!CAUTION]
-Some sections, projects, and links on this profile may be incomplete or not work yet.
-
-I'm still finishing things up — in other words, I'm just lazy lol 💀. Not every link has been fully set up yet. 🚧
+> [!CAUTION]
+> Some sections, projects, and links on this profile may be incomplete or not work yet.
+> I'm still finishing things up — in other words, **I'm just lazy lol** 💀. Not every link has been fully set up yet. 🚧
 
 ---
 
