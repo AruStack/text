@@ -103,51 +103,27 @@ Tech I work with:
 
 ---
 
-## 🏆 Achievements
+---
 
-  <details>
-    <summary><b>🌟 Projects & Work</b></summary>
+## 🏆 Certifications & Awards
 
-* 🚀 Built multiple full-stack & frontend projects
+<details>
+  <summary><b>📜 Certifications</b></summary>
 
-* 🎨 Created interactive UI/UX experiences
+- 🏅 Add your certification here
+- 🏅 Add your certification here
+- 🏅 Add your certification here
 
-* 🛠️ Developed apps using JS, Python, Flask, Node
+</details>
 
-* 💡 Turned ideas into working products
+<details>
+  <summary><b>🏆 Awards</b></summary>
 
-  </details>
+- 🥇 Add your award here
+- 🥈 Add your award here
+- 🏅 Add your award here
 
-  <details>
-    <summary><b>📜 Certificates</b></summary>
-
-* 🏅 Add your certificate here
-
-* 🏅 Add your certificate here
-
-  </details>
-
-  <details>
-    <summary><b>🧠 Learning</b></summary>
-
-* 📚 Learning full-stack development
-
-* ⚡ Exploring APIs & backend systems
-
-* 🧪 Building projects to learn
-
-  </details>
-
-  <details>
-    <summary><b>🏅 Milestones</b></summary>
-
-* ⭐ Consistent GitHub activity
-
-* 🚀 Continuous growth as a developer
-
-* 💻 Strong hands-on experience
-
-  </details>
+</details>
 
 ---
 
