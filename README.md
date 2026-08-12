@@ -52,18 +52,10 @@
 </a>
 </div>
 
-<div align="center">
+[!CAUTION]
+Some sections, projects, and links on this profile may be incomplete or not work yet.
 
-⚠️ **Caution: This Profile Is Still Under Construction™** ⚠️
-
-Some links, sections, projects, and other shiny buttons around here may not work yet — or may be completely empty.  
-Not because they're broken... **I'm just lazy and haven't finished everything yet.** 💀
-
-I'm slowly filling things in, fixing links, and pretending I have my life together.  
-**Thanks for your patience! 🚧😂**
-
-</div>
-
+I'm still finishing things up — in other words, I'm just lazy lol 💀. Not every link has been fully set up yet. 🚧
 ---
 
 ## 🚀 A little about me...
