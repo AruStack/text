@@ -145,16 +145,6 @@ Tech I work with:
 
 ## 🎲 Random Stuff I Did
 
-<!-- RANDOM_STUFF_START -->
-> ✨ Spent more time debugging than actually coding.
-<!-- RANDOM_STUFF_END -->
-
-</div>
-```markdown
----
-
-## 🎲 Random Stuff I Did
-
 > ### 💭 What have I been doing?
 > Random things. Random projects. Random ideas.
 > Sometimes productive. Sometimes questionable. Usually both.
