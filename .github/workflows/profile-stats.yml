@@ -59,8 +59,21 @@ jobs:
         run: |
           curl -L \
             "https://github-profile-trophy.vercel.app/?username=ByAruDev&theme=darkhub&no-frame=true&margin-w=10&row=1" \
-            -o profile/trophies.svg
+            -o /tmp/trophies.svg
 
+          # Make sure we actually received SVG
+          if ! grep -q "<svg" /tmp/trophies.svg; then
+            echo "Trophy generator did not return valid SVG"
+            cat /tmp/trophies.svg
+            exit 1
+          fi
+
+          # Remove potentially problematic XML declarations/doctype
+          sed -i '/<\?xml/d' /tmp/trophies.svg
+          sed -i '/<!DOCTYPE/d' /tmp/trophies.svg
+
+          cp /tmp/trophies.svg profile/trophies.svg
+          
       # ─────────────────────────────────────────────
       # 💾 Commit everything
       # ─────────────────────────────────────────────
