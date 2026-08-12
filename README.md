@@ -157,7 +157,7 @@ Tech I work with:
 
 <div align="center">
 
-`⚡ RANDOMLY GENERATED` &nbsp; `🔄 AUTO-UPDATED` &nbsp; `💀 NO PARTICULAR REASON`
+`⚡ RANDOMLY GENERATED` &nbsp; `🔄 AUTO-UPDATED` 
 
 </div>
 
