@@ -103,8 +103,6 @@ Tech I work with:
 
 ---
 
----
-
 ## 🏆 Certifications & Awards
 
 <details>
@@ -127,10 +125,6 @@ Tech I work with:
 
 ---
 
----
-
----
-
 ## 📊 Statistics
 
 <div align="center">
@@ -148,5 +142,15 @@ Tech I work with:
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ByAruDev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+
+---
+
+## 🎲 Random Stuff I Did
+
+> ✨ Designed a poster for absolutely no reason.
+
+<!-- RANDOM_STUFF_START -->
+> ✨ Designed a poster for absolutely no reason.
+<!-- RANDOM_STUFF_END -->
 
 </div>
