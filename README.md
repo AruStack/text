@@ -160,4 +160,4 @@ Tech I work with:
 `⚡ RANDOMLY GENERATED` &nbsp; `🔄 AUTO-UPDATED` &nbsp; `💀 NO PARTICULAR REASON`
 
 </div>
-```
+
