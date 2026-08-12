@@ -2,7 +2,7 @@ name: 🎲 Update Random Stuff
 
 on:
   schedule:
-    # Runs every day at 12:00 UTC
+    
     - cron: "0 12 * * *"
 
   workflow_dispatch:
