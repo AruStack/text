@@ -148,7 +148,7 @@ Tech I work with:
 ## 🎲 Random Stuff I Did
 
 <!-- RANDOM_STUFF_START -->
-> ✨ Designed a poster for absolutely no reason.
+> ✨ Designed something that started as a five-minute idea.
 <!-- RANDOM_STUFF_END -->
 
 </div>
