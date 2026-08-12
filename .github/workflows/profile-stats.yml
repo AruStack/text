@@ -2,9 +2,8 @@ name: 📊 Update Profile Statistics
 
 on:
   schedule:
-    # Every day at 03:00 UTC
     - cron: "0 3 * * *"
-
+    
   workflow_dispatch:
 
 permissions:
@@ -18,10 +17,6 @@ jobs:
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
-      # ─────────────────────────────────────────────
-      # 📈 GitHub Stats
-      # ─────────────────────────────────────────────
-
       - name: 📈 Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -29,9 +24,6 @@ jobs:
           options: username=ByAruDev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github
           path: profile/stats.svg
 
-      # ─────────────────────────────────────────────
-      # 💻 Top Languages
-      # ─────────────────────────────────────────────
 
       - name: 💻 Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
@@ -40,9 +32,6 @@ jobs:
           options: username=ByAruDev&layout=donut&theme=transparent&hide_border=true&langs_count=8
           path: profile/top-langs.svg
 
-      # ─────────────────────────────────────────────
-      # 🔥 GitHub Streak
-      # ─────────────────────────────────────────────
 
       - name: 🔥 Generate Streak Stats
         uses: DenverCoder1/github-readme-streak-stats@main
@@ -51,9 +40,6 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ─────────────────────────────────────────────
-      # 🏆 GitHub Trophies
-      # ─────────────────────────────────────────────
 
       - name: 🏆 Generate GitHub Trophies
         run: |
@@ -74,9 +60,6 @@ jobs:
 
           cp /tmp/trophies.svg profile/trophies.svg
           
-      # ─────────────────────────────────────────────
-      # 💾 Commit everything
-      # ─────────────────────────────────────────────
 
       - name: 💾 Commit generated statistics
         run: |
