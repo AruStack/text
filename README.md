@@ -129,20 +129,25 @@ Tech I work with:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ByAruDev&theme=darkhub&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+<!-- 🏆 GitHub Trophies -->
+<img src="./profile/trophies.svg" alt="GitHub Trophies"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ByAruDev&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+<!-- 🔥 GitHub Streak -->
+<img src="./profile/streak.svg" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByAruDev&layout=donut&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages"/>
+<!-- 💻 Top Languages -->
+<img src="./profile/top-langs.svg" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ByAruDev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<!-- 📈 GitHub Stats -->
+<img src="./profile/stats.svg" alt="GitHub Stats"/>
 
+</div>
 ---
 
 ## 🎲 Random Stuff I Did
