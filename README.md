@@ -129,23 +129,24 @@ Tech I work with:
 
 ---
 
+---
+
 ## 📊 Statistics
 
 <div align="center">
 
-<!-- GitHub Profile Trophy -->
 <img src="https://github-profile-trophy.vercel.app/?username=ByAruDev&theme=darkhub&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
 
 <br/><br/>
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ByAruDev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=ByAruDev&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByAruDev&layout=donut&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages"/>
 
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ByAruDev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+
 </div>
-
-
