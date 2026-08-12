@@ -148,7 +148,7 @@ Tech I work with:
 ## 🎲 Random Stuff I Did
 
 <!-- RANDOM_STUFF_START -->
-> ✨ Designed something that started as a five-minute idea.
+> ✨ Spent more time debugging than actually coding.
 <!-- RANDOM_STUFF_END -->
 
 </div>
