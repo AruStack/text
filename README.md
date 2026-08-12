@@ -78,12 +78,12 @@ Tech I work with:
 <div align="center">
 <table>
 <tr>
-<td><a href="https://github.com/meowrch"><img src="./assets/meowrch.png" width="330" height="180"/></a></td>
-<td><a href="https://github.com/DIMFLIX-Hackathons"><img src="./assets/hackathons.png" width="330" height="180"/></a></td>
+<td><a href="https://github.com/ByAruDev-AruLabs"><img src="./assets/AruLabs.png" width="330" height="180"/></a></td>
+<td><a href="https://github.com/ByAruDev-AruUI"><img src="./assets/AruUi.png" width="330" height="180"/></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/DIMFLIX-Designs"><img src="./assets/designs.png" width="330" height="180"/></a></td>
-<td><a href="https://github.com/DIMFLIX-EDUCATION"><img src="./assets/education.png" width="330" height="180"/></a></td>
+<td><a href="https://github.com/ByAruDev-AruAlgo"><img src="./assets/AruAlgo.png" width="330" height="180"/></a></td>
+<td><a href="https://github.com/ByAruDev-AruNotes"><img src="./assets/AruNotes.png" width="330" height="180"/></a></td>
 </tr>
 </table>
 </div>
