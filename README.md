@@ -78,7 +78,7 @@ Tech I work with:
 <div align="center">
 <table>
 <tr>
-<td><a href="https://github.com/ByAruDev-AruLabs"><img src="./assets/AruLabs.png" width="330" height="180"/></a></td>
+<td><a href="https://github.com/ByAruDev-AruLabs"><img src="https://github.com/AruStack/text/blob/main/assets/AruAlgo.png" width="330" height="180"/></a></td>
 <td><a href="https://github.com/ByAruDev-AruUI"><img src="./assets/AruUi.png" width="330" height="180"/></a></td>
 </tr>
 <tr>
