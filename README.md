@@ -129,22 +129,14 @@ Tech I work with:
 
 <div align="center">
 
-<!-- 🏆 GitHub Trophies -->
-<img src="./profile/trophies.svg" alt="GitHub Trophies"/>
-
-<br/><br/>
-
-<!-- 🔥 GitHub Streak -->
 <img src="./profile/streak.svg" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- 💻 Top Languages -->
 <img src="./profile/top-langs.svg" alt="Top Languages"/>
 
 <br/><br/>
 
-<!-- 📈 GitHub Stats -->
 <img src="./profile/stats.svg" alt="GitHub Stats"/>
 
 </div>
