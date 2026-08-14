@@ -151,7 +151,7 @@ Tech I work with:
 
 <!-- RANDOM_STUFF_START -->
 
-> ✨ Started another project instead of finishing the previous one.
+> ✨ Made some questionable UI decisions and called them experimental.
 
 <!-- RANDOM_STUFF_END -->
 
