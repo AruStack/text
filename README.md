@@ -151,7 +151,7 @@ Tech I work with:
 
 <!-- RANDOM_STUFF_START -->
 
-> ✨ Made some questionable UI decisions and called them experimental.
+> ✨ Spent more time debugging than actually coding.
 
 <!-- RANDOM_STUFF_END -->
 
