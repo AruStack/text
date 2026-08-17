@@ -151,7 +151,7 @@ Tech I work with:
 
 <!-- RANDOM_STUFF_START -->
 
-> ✨ Experimented with a completely unnecessary UI animation.
+> ✨ Spent more time debugging than actually coding.
 
 <!-- RANDOM_STUFF_END -->
 
