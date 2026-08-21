@@ -151,7 +151,7 @@ Tech I work with:
 
 <!-- RANDOM_STUFF_START -->
 
-> ✨ Worked on a project that I probably should have finished weeks ago.
+> ✨ Refactored some code that was working perfectly fine.
 
 <!-- RANDOM_STUFF_END -->
 
